@@ -775,15 +775,13 @@ Heuristic Search
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Svk2811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Svk2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -791,7 +789,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Svk2811&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Svk2811&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -799,11 +797,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Svk2811&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
-----
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
+
+</div>
+
+---
 
 # 📊 Contribution Graph
 
@@ -817,7 +823,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layo
 
 # 🐍 Contribution Snake
 
-> **Note:** This animation requires a GitHub Action to generate the SVG files.
 
 <div align="center">
 
@@ -890,7 +895,7 @@ src="https://raw.githubusercontent.com/Svk2811/Svk2811/output/github-contributio
 
 > Replace the link below with your uploaded resume.
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1R-WXPwJZ6GgcLrmytBjLR8lhDr9kGo6a/view?usp=drivesdk)
 
 </div>
 
