@@ -779,17 +779,11 @@ Heuristic Search
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Svk2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Svk2811&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Svk2811&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -797,11 +791,19 @@ Heuristic Search
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=Svk2811&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+
+</div>
+
+----
 
 # 📊 Contribution Graph
 
