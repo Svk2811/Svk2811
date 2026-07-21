@@ -1,226 +1,194 @@
 <div align="center">
 
-<!-- TOP ANIMATED BANNER -->
+# 👋 Hi, I'm Nune Sai Venkata Krishna
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nune+Sai+Venkata+Krishna;B.Tech+CSE+(AI+%26+ML)+@+PIET;Generative+AI+%7C+Full-Stack+Developer;National+Finalist+%7C+Top+150%2F1400%2B+Teams;Building+High-Impact+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI+%26+ML)+Student;Generative+AI+Developer;Full-Stack+Web+Developer;Open+Source+Contributor;Building+AI+Powered+Solutions)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://in.linkedin.com/in/n-s-v-k">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://saivenkatakrishna28-design.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:saivenkatakrishna28@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Svk2811">
+<img src="https://img.shields.io/github/followers/Svk2811?label=Followers&style=for-the-badge&color=181717&logo=github">
 </a>
 
 <a href="https://github.com/Svk2811">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/Svk2811?affiliations=OWNER&style=for-the-badge&color=7AA2F7">
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Svk2811&style=for-the-badge&color=7AA2F7" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Svk2811&label=Profile%20Views&color=7aa2f7&style=flat-square"/>
+<a href="https://in.linkedin.com/in/n-s-v-k">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<img src="https://img.shields.io/badge/Status-Seeking%20Software%20%2F%20AI%20Internships-9ece6a?style=flat-square"/>
+<a href="https://saivenkatakrishna28-design.github.io/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-<img src="https://img.shields.io/badge/Location-Vadodara%2C%20India-e0af68?style=flat-square"/>
+<a href="mailto:saivenkatakrishna28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Svk2811">
+<img src="https://img.shields.io/badge/GitHub-Svk2811-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# ⚡ Executive Summary
+# 🚀 Executive Summary
 
 ```yaml
-Developer_Profile:
+Name:
+  Nune Sai Venkata Krishna
 
-  Full_Name:
-    Nune Sai Venkata Krishna
+Role:
+  AI & Machine Learning Undergraduate
 
-  Short_Name:
-    NSVK
+University:
+  Parul Institute of Engineering and Technology (PIET)
 
-  Institute:
-    Parul Institute of Engineering and Technology (PIET)
+Degree:
+  Bachelor of Technology
+  Computer Science & Engineering
+  Specialization in Artificial Intelligence & Machine Learning
 
-  Degree:
-    B.Tech Computer Science & Engineering
+Location:
+  Vadodara, Gujarat, India
 
-  Specialization:
-    Artificial Intelligence & Machine Learning
+Current Focus:
+  - Generative AI
+  - Full Stack Development
+  - AI Agents
+  - Health-Tech
+  - Automation
+  - Open Source
 
-  Current_Focus:
-    - Generative AI
-    - Full Stack Development
-    - AI Agents
-    - Automation
-    - Health-Tech
-    - Open Source
+Programming Languages:
+  - C
+  - C++
+  - Python
+  - JavaScript
 
-  Programming:
-    - C
-    - C++
-    - Python
-    - JavaScript
+Frontend:
+  - HTML5
+  - CSS3
+  - Firebase
 
-  Web:
-    - HTML5
-    - CSS3
-    - Firebase
+AI Technologies:
+  - Google Gemini API
+  - Prompt Engineering
+  - LLM Applications
 
-  AI:
-    - Google Gen AI
-    - Prompt Engineering
-    - LLM Applications
-
-  Motto:
-    "Build for scalability, engineer for reliability, optimize for humans."
+Engineering Motto:
+  "Build scalable software. Create meaningful AI."
 ```
 
 ---
 
 # 💡 About Me
 
-I'm a **Computer Science (AI & ML)** undergraduate passionate about building intelligent software that solves real-world problems.
+I'm a passionate **AI & Machine Learning** undergraduate who enjoys building intelligent software, scalable web applications, and AI-powered products that solve real-world problems.
 
-My interests include:
+My primary interests include:
 
-- 🤖 Generative AI Applications
-- 🧠 AI Agents & Autonomous Systems
-- 🌐 Full Stack Development
-- ⚙️ Automation Workflows
+- 🤖 Generative AI
+- 🧠 AI Agents
+- 🌐 Full-Stack Web Development
+- ⚙️ Software Engineering
 - 📊 Data Science
-- ☁️ Cloud Applications
-- 🚀 Startup Products
+- 🚀 Startup Innovation
+- 💡 Open Source
 
-I enjoy combining **low-level algorithmic thinking** with **modern AI frameworks** to create production-ready software that is fast, scalable, and user-friendly.
-
----
-
-# 🚀 Engineering Philosophy
-
-> **"Simplicity is a prerequisite for reliability."**
-
-Every project I build follows three principles:
-
-- Clean Architecture
-- Scalable Design
-- Human-Centered Experience
-
-I believe great software isn't just about writing code—it's about creating systems that are maintainable, efficient, and impactful.
+I enjoy transforming ideas into production-ready applications using modern development practices and AI technologies.
 
 ---
 
-# 🎯 Current Goals
+# 🎯 What I'm Currently Working On
 
-- 🚀 Secure an AI/Software Engineering Internship
-- 🤖 Build production-ready AI applications
-- 🌍 Contribute to Open Source
-- 📚 Master System Design
-- ⚡ Learn Advanced Backend Development
-- 🧠 Explore Multi-Agent AI Systems
-- ☁️ Deploy scalable cloud applications
+- 🚀 Building AI-powered web applications
+- 🤖 Developing intelligent AI chatbots
+- 🌐 Improving my personal portfolio
+- 📈 Contributing to open-source projects
+- 🧠 Learning Retrieval-Augmented Generation (RAG)
+- ☁️ Exploring cloud-native application development
 
 ---
 
-# 🔥 Core Expertise
+# 🏅 Highlights
 
-| Area | Skills |
-|------|--------|
-| 🤖 AI | LLMs, Prompt Engineering, AI Automation |
-| 💻 Programming | C, C++, Python, JavaScript |
-| 🌐 Web | HTML, CSS, Firebase |
-| ⚙️ Backend | APIs, Automation, Integrations |
-| 📊 Data | Analytics, Processing |
-| 🛠 Tools | Git, GitHub, VS Code |
+- 🥇 National Finalist – Prototype Challenge (Top 150/1400+ Teams)
+- 🤖 AI & Full-Stack Developer
+- 🏆 Best Student Award (2024–2025)
+- 🏅 Governor's Award Recipient
+- 💻 Open Source Contributor
+- 🚀 Hackathon Participant
+
+---
+
+> **"Great software is built with clean architecture, thoughtful design, and continuous learning."**
 
 ---
 ---
 
-# 🚀 Key Engineering Pillars
+# 🚀 Engineering Pillars
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-## 🧠 AI & Agentic Systems
+### 🤖 AI & Generative Intelligence
 
-Designing intelligent AI systems capable of reasoning, automation, and contextual decision-making.
+Building intelligent applications powered by Large Language Models, prompt engineering, and workflow automation.
 
-### Focus Areas
+#### Expertise
 
-- LLM Applications
 - Prompt Engineering
-- Agentic AI
-- Workflow Automation
-- RAG Architecture
-- Multi-Agent Systems
 - AI Chatbots
 - Generative AI
-
-**Current Technologies**
-
-- Google Gen AI
-- Gemini API
-- Python
-- Firebase
-- REST APIs
+- LLM Applications
+- AI Agents
+- Automation
+- RAG (Learning)
 
 </td>
 
 <td width="33%" valign="top">
 
-## 💻 Low-Level Systems
+### 💻 Software Engineering
 
-Building optimized software with strong algorithmic foundations.
+Writing scalable, maintainable, and efficient software using modern engineering practices.
 
-### Focus Areas
+#### Expertise
 
+- Object-Oriented Programming
 - Data Structures
 - Algorithms
-- Memory Management
-- Time Optimization
-- Space Optimization
-- Graph Algorithms
-- Dynamic Programming
+- API Integration
+- Performance Optimization
+- Clean Architecture
 - Problem Solving
-
-**Languages**
-
-- C
-- C++
-- Python
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🌐 Modern Web Platforms
+### 🌐 Full Stack Development
 
-Creating responsive, scalable and user-friendly web applications.
+Developing responsive web applications with modern UI, backend integrations, and cloud deployment.
 
-### Focus Areas
-
-- Responsive UI
-- Dynamic Dashboards
-- Firebase Integration
-- Authentication
-- Hosting
-- REST APIs
-- Browser Storage
-- Performance Optimization
-
-**Frontend Stack**
+#### Expertise
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
+- Firebase
+- REST APIs
+- Responsive Design
+- GitHub Pages
 
 </td>
 
@@ -229,425 +197,9 @@ Creating responsive, scalable and user-friendly web applications.
 
 ---
 
-# 🏆 Competitive Achievements & Recognition
+# 💻 Tech Stack
 
-| Competition | Achievement | Domain |
-|-------------|------------|--------|
-| 🥇 Prototype Challenge (Team 3SVK) | National Finalist (Top 150 / 1400+ Teams) | Software Engineering |
-| 🤖 AttentionX Hackathon | Featured Open Source Repository | Generative AI |
-| 🛡 Blue Stars OpenEnv Round 1 | AI Support Automation Engine | Reinforcement Learning |
-| 🏆 Best Student Award (2024–25) | Academic Excellence | Leadership |
-| 🏅 Governor's Award | Public Speaking & Leadership | Achievement |
-| ⚡ ByteBattle 2026 | National Participant | Competitive Programming |
-| 📊 Data Sprint 2026 | Finalist / Participant | Data Science |
-| 🤖 VishwaNova AI (MIT-WPU) | AI Competition Participant | Artificial Intelligence |
-
----
-
-# 💻 Technical Skills
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-</p>
-
----
-
-## Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-## AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-</p>
-
-### Working With
-
-- Generative AI
-- Prompt Engineering
-- LLM APIs
-- AI Chatbots
-- Agentic AI
-- Automation Pipelines
-- RAG Systems
-
----
-
-## Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- ✅ Retrieval-Augmented Generation (RAG)
-- ✅ Vector Databases
-- ✅ Multi-Agent AI Systems
-- ✅ System Design
-- ✅ Backend Engineering
-- ✅ API Security
-- ✅ Cloud Computing
-- ✅ High Performance Python
-- ✅ Advanced C++
-- ✅ Scalable AI Applications
-
----
-
-# 📌 Pinned Projects
-
-| Repository | Description |
-|------------|-------------|
-| 🤖 **AttentionX-AI** | AI-powered automated content transformation engine |
-| 🏥 **meditrack-final** | Health-tech platform for medication management |
-| 🛡 **blue-stars-openenv-round1** | AI support triage and reinforcement learning project |
-| 🎮 **sai_bot** | Intelligent Python game strategy bot |
-| 🌐 **Portfolio + Sai Bot** | Personal portfolio with integrated AI chatbot |
-
----
----
-
-# 💼 Featured Engineering Projects
-
-## 🤖 1. Personal Portfolio Website with Integrated AI Chatbot (Sai Bot)
-
-### 🌐 Live Demo
-
-**Portfolio:**  
-https://saivenkatakrishna28-design.github.io/Portfolio
-
-**GitHub Repository:**  
-https://github.com/Svk2811
-
----
-
-### 📌 Overview
-
-Traditional portfolio websites provide static information that requires recruiters to manually search for relevant details.
-
-To solve this problem, I developed an interactive AI-powered portfolio that includes an embedded chatbot named **Sai Bot**, allowing visitors to ask questions naturally and receive instant responses about my projects, skills, education, achievements, and experience.
-
----
-
-### 🚀 Key Features
-
-- AI-powered chatbot
-- Responsive design
-- Recruiter-friendly UI
-- Firebase integration
-- Dynamic project showcase
-- Resume download
-- Skills visualization
-- Contact form
-- Mobile optimized
-- Dark UI
-
----
-
-### 🛠 Tech Stack
-
-```text
-HTML5
-CSS3
-JavaScript (ES6)
-Firebase
-Google Gemini API
-GitHub Pages
-```
-
----
-
-### ⭐ Highlights
-
-- Built a responsive portfolio with modern UI/UX
-- Integrated Generative AI chatbot
-- Optimized for recruiters
-- Fast page loading
-- Cross-browser compatibility
-- Mobile-first design
-
----
-
-## ⚡ 2. AttentionX-AI
-
-### 🔗 Repository
-
-https://github.com/Svk2811/AttentionX-AI
-
----
-
-### 📌 Overview
-
-AttentionX-AI is an AI-powered automated content repurposing engine that transforms long-form content into optimized outputs for multiple social media platforms.
-
-The system minimizes manual editing while preserving context and improving engagement.
-
----
-
-### 🚀 Features
-
-- AI content generation
-- Prompt orchestration
-- Automated formatting
-- Context preservation
-- Platform-specific optimization
-- Structured outputs
-- High-speed processing
-
----
-
-### 🛠 Tech Stack
-
-```text
-Python
-
-Google Generative AI
-
-Prompt Engineering
-
-Automation
-
-REST APIs
-```
-
----
-
-### ⭐ Engineering Highlights
-
-- Low-latency AI pipeline
-- Prompt optimization
-- Output validation
-- Structured response formatting
-- Scalable workflow architecture
-
----
-
-## 🏥 3. MediTrack
-
-### 🔗 Repository
-
-https://github.com/Svk2811/meditrack-final
-
----
-
-### 📌 Overview
-
-MediTrack is a lightweight health-tech web application that helps users manage medications, emergency contacts, reminders, and daily health logs.
-
-The project focuses on accessibility, simplicity, and offline usability.
-
----
-
-### 🚀 Features
-
-- Medication reminders
-- Emergency contacts
-- Health tracking
-- Offline support
-- Dashboard analytics
-- Local storage
-- Fast loading
-- Responsive design
-
----
-
-### 🛠 Tech Stack
-
-```text
-HTML5
-
-CSS3
-
-JavaScript
-
-Browser Storage APIs
-```
-
----
-
-### ⭐ Engineering Highlights
-
-- Zero backend dependency
-- Lightweight architecture
-- Optimized for low-end devices
-- Instant dashboard rendering
-- Offline-first experience
-
----
-
-## 📊 Project Impact
-
-| Project | Domain | Status |
-|----------|--------|--------|
-| 🤖 Portfolio + Sai Bot | Personal Branding + AI | Production |
-| ⚡ AttentionX-AI | Generative AI | Active |
-| 🏥 MediTrack | Health-Tech | Completed |
-
----
-
-## 🎯 Engineering Principles Applied
-
-✔ Modular Architecture
-
-✔ Scalable Components
-
-✔ Responsive Design
-
-✔ Performance Optimization
-
-✔ Clean Code Practices
-
-✔ User-Centered Design
-
-✔ AI-first Development
-
-✔ Production-ready Structure
-
----
----
-
-# 🛡️ Featured Engineering Projects (Continued)
-
-## 🛡️ 4. Blue Stars OpenEnv Round 1
-
-### 🔗 GitHub Repository
-
-**Repository:**  
-https://github.com/Svk2811/blue-stars-openenv-round1
-
----
-
-### 📌 Overview
-
-Blue Stars OpenEnv Round 1 is an intelligent AI-powered support triage environment developed to automate customer support ticket classification and prioritization.
-
-The project demonstrates reinforcement learning concepts using custom reward functions and environment design.
-
----
-
-### 🚀 Key Features
-
-- Intelligent ticket classification
-- Reinforcement Learning environment
-- Custom reward shaping
-- Automated support routing
-- Deterministic scoring system
-- Modular architecture
-- Extensible framework
-
----
-
-### 🛠 Tech Stack
-
-```text
-Python
-OpenAI Gym
-Reinforcement Learning
-NumPy
-Custom Environment Design
-```
-
----
-
-### ⭐ Engineering Highlights
-
-- Custom reward function implementation
-- Modular environment architecture
-- Deterministic evaluation
-- Scalable support automation
-- Lightweight execution pipeline
-
----
-
-# 🎮 5. Sai Bot
-
-### 🔗 GitHub Repository
-
-**Repository:**  
-https://github.com/Svk2811/sai_bot
-
----
-
-### 📌 Overview
-
-Sai Bot is a Python-based intelligent strategy engine developed for grid-based games. It evaluates game states and determines optimal moves using heuristic algorithms.
-
----
-
-### 🚀 Key Features
-
-- Grid state evaluation
-- Heuristic search
-- Modular architecture
-- Fast move calculation
-- Strategy optimization
-- Lightweight execution
-
----
-
-### 🛠 Tech Stack
-
-```text
-Python
-Graph Search
-State Evaluation
-Algorithms
-```
-
----
-
-### ⭐ Engineering Highlights
-
-- Efficient move prediction
-- Optimized decision making
-- Clean modular code
-- Lightweight execution
-- Algorithmic optimization
-
----
-
-# 💻 Technology Matrix
-
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
 
@@ -663,7 +215,7 @@ Algorithms
 
 ---
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p align="center">
 
@@ -677,19 +229,23 @@ Algorithms
 
 ---
 
-## 🤖 Artificial Intelligence
+### 🤖 AI & Development
 
-- Google Gemini API
-- Prompt Engineering
-- Generative AI
-- AI Chatbots
-- Agentic AI
-- RAG (Learning)
-- Automation Pipelines
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt-Engineering-7AA2F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open-Source-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🛠 Developer Tools
+### 🛠 Developer Tools
 
 <p align="center">
 
@@ -705,93 +261,551 @@ Algorithms
 
 ---
 
-# 🌱 Currently Exploring
+# 🏆 Achievements
+
+| Achievement | Description |
+|------------|-------------|
+| 🥇 National Finalist | Prototype Challenge (Top 150 / 1400+ Teams) |
+| 🏆 Best Student Award | Academic Excellence (2024–2025) |
+| 🏅 Governor's Award | Leadership & Public Speaking |
+| 🤖 AttentionX Hackathon | AI Content Transformation |
+| 💻 ByteBattle 2026 | National Coding Competition |
+| 📊 Data Sprint 2026 | Data Science Challenge |
+| 🚀 VishwaNova AI | AI Innovation Competition |
+
+---
+
+# 🌱 Currently Learning
 
 ```text
 ✔ Retrieval-Augmented Generation (RAG)
 
 ✔ Multi-Agent AI Systems
 
-✔ System Design
-
-✔ Advanced Backend Engineering
+✔ Backend Development
 
 ✔ Cloud Computing
 
+✔ Software Architecture
+
+✔ System Design
+
 ✔ AI Workflow Automation
-
-✔ High Performance Python
-
-✔ Scalable Web Applications
 ```
 
 ---
 
-# 📈 GitHub Activity
-
-### 📌 Pinned Repositories
+# 📌 Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
-| 🚀 AttentionX-AI | AI-powered content transformation engine |
-| 🏥 meditrack-final | Medication & health tracking platform |
-| 🛡 blue-stars-openenv-round1 | Reinforcement learning support system |
-| 🎮 sai_bot | Intelligent strategy engine |
+| 🤖 AttentionX-AI | AI-powered content transformation engine |
+| 🏥 meditrack-final | Health-tech medication management platform |
+| 🛡 blue-stars-openenv-round1 | Reinforcement learning support automation |
+| 🎮 sai_bot | Intelligent Python strategy bot |
+| 🌐 Portfolio Website | Interactive portfolio with AI assistant |
 
 ---
 
-### 📊 Coding Interests
+# 📈 GitHub Goals
 
-- Artificial Intelligence
-- Full Stack Development
-- Open Source
-- Competitive Programming
-- System Design
-- Software Engineering
+- 🚀 Build impactful AI products
+- 🌍 Contribute to Open Source
+- 💻 Master Full-Stack Development
+- 🤖 Develop Production-Ready AI Systems
+- 📚 Learn System Design
+- ☁️ Explore Cloud Technologies
+
+---
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+---
+
+---
+
+# 💼 Featured Projects
+
+## 🌐 1. Personal Portfolio Website + AI Chatbot (Sai Bot)
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Gemini_API-purple?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Live Website
+
+**Portfolio:**  
+https://saivenkatakrishna28-design.github.io/Portfolio
+
+---
+
+### 📌 Overview
+
+A modern AI-powered portfolio website that allows recruiters and visitors to interact with an intelligent chatbot named **Sai Bot**.
+
+Instead of browsing multiple pages, users can ask questions naturally about my projects, skills, education, certifications, and achievements.
+
+---
+
+### ✨ Key Features
+
+- 🤖 AI Chatbot (Sai Bot)
+- 📱 Fully Responsive Design
+- 🌙 Modern Dark UI
+- ⚡ Fast Loading
+- 📄 Resume Download
+- 💼 Interactive Project Showcase
+- 📜 Certifications Section
+- 📬 Contact Form
+- 🔥 Animated Hero Section
+
+---
+
+### 🛠 Tech Stack
+
+```text
+HTML5
+CSS3
+JavaScript
+Firebase
+Google Gemini API
+GitHub Pages
+```
+
+---
+
+### 🚀 Highlights
+
+- AI-powered recruiter assistant
+- Optimized UI/UX
+- Mobile-first design
+- Clean architecture
+- Interactive experience
+
+---
+
+# 🤖 2. AttentionX-AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Generative-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+https://github.com/Svk2811/AttentionX-AI
+
+---
+
+### 📌 Overview
+
+AttentionX-AI is an AI-powered content repurposing platform that converts long-form content into engaging short-form content for multiple social media platforms.
+
+The system focuses on preserving context while improving readability and engagement.
+
+---
+
+### ✨ Features
+
+- AI Content Generation
+- Prompt Engineering
+- Structured Output
 - Automation
-- Health-Tech
-- Developer Tools
+- Fast Processing
+- Platform-Specific Formatting
 
 ---
+
+### 🛠 Tech Stack
+
+```text
+Python
+
+Google Gemini API
+
+Prompt Engineering
+
+Automation
+
+REST APIs
+```
+
 ---
 
-# 📈 Real-Time GitHub Analytics
+### 🚀 Highlights
+
+- High-speed processing pipeline
+- AI prompt optimization
+- Scalable architecture
+- Clean modular design
+
+---
+
+# 🏥 3. MediTrack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Health-Tech-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+https://github.com/Svk2811/meditrack-final
+
+---
+
+### 📌 Overview
+
+MediTrack is a lightweight healthcare application that helps users manage medicines, appointments, emergency contacts, and wellness records.
+
+Designed for simplicity, speed, and accessibility.
+
+---
+
+### ✨ Features
+
+- Medicine Reminders
+- Emergency Contacts
+- Health Dashboard
+- Offline Support
+- Local Storage
+- Fast Performance
+- Responsive Design
+
+---
+
+### 🛠 Tech Stack
+
+```text
+HTML5
+
+CSS3
+
+JavaScript
+
+Browser Storage API
+```
+
+---
+
+### 🚀 Highlights
+
+- Offline-first approach
+- Lightweight architecture
+- Zero backend dependency
+- Fast rendering
+- User-friendly interface
+
+---
+
+# 📊 Project Summary
+
+| Project | Category | Status |
+|----------|----------|--------|
+| 🌐 Portfolio + Sai Bot | AI Portfolio | ✅ Live |
+| 🤖 AttentionX-AI | Generative AI | 🚀 Active |
+| 🏥 MediTrack | Health-Tech | ✅ Completed |
+
+---
+
+## 💡 Development Principles
+
+✔ Clean Code
+
+✔ Modular Architecture
+
+✔ Responsive Design
+
+✔ Accessibility
+
+✔ Performance Optimization
+
+✔ Scalable Development
+
+✔ User-Centered Experience
+
+✔ AI-First Innovation
+
+---
+
+> **"Every project is an opportunity to learn, innovate, and build solutions that create real-world impact."**
+
+---
+
+---
+
+# 🚀 Advanced Engineering Projects
+
+## 🛡️ 4. Blue Stars OpenEnv Round 1
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenEnv-AI%20Project-7AA2F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Reinforcement-Learning-success?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+**GitHub:**  
+https://github.com/Svk2811/blue-stars-openenv-round1
+
+---
+
+### 📌 Project Overview
+
+Blue Stars OpenEnv Round 1 is an intelligent customer-support automation environment built to simulate AI-driven ticket classification and routing using reinforcement learning concepts.
+
+The project demonstrates how intelligent agents can prioritize, classify, and process incoming support requests through reward-based decision making.
+
+---
+
+### ✨ Features
+
+- 🎯 Automated Ticket Classification
+- 🤖 Reinforcement Learning Environment
+- 📊 Reward-Based Evaluation
+- ⚡ Fast Decision Engine
+- 🧩 Modular Python Architecture
+- 📈 Performance Scoring
+- 🔄 Scalable Workflow
+
+---
+
+### 🛠 Technology Stack
+
+```text
+Python
+
+OpenAI Gym
+
+NumPy
+
+Custom Reward Functions
+
+Reinforcement Learning
+```
+
+---
+
+### 🚀 Engineering Highlights
+
+- Designed modular AI environment
+- Built deterministic reward functions
+- Optimized routing logic
+- Lightweight execution pipeline
+- Scalable architecture
+
+---
+
+# 🎮 5. Sai Bot
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Bot-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Game-AI-success?style=for-the-badge"/>
+
+</p>
+
+### 🔗 Repository
+
+**GitHub:**  
+https://github.com/Svk2811/sai_bot
+
+---
+
+### 📌 Project Overview
+
+Sai Bot is a Python-based intelligent strategy engine developed for grid-based games. It evaluates board states and selects optimal moves using heuristic search techniques.
+
+The project demonstrates algorithmic thinking, efficient state evaluation, and decision-making under constrained environments.
+
+---
+
+### ✨ Features
+
+- 🎮 Intelligent Move Prediction
+- 📊 State Evaluation
+- ⚡ Fast Turn Calculation
+- 🧠 Heuristic Algorithms
+- 🧩 Modular Architecture
+- 🚀 Lightweight Execution
+
+---
+
+### 🛠 Technology Stack
+
+```text
+Python
+
+Algorithms
+
+Graph Search
+
+State Evaluation
+
+Heuristic Search
+```
+
+---
+
+### 🚀 Engineering Highlights
+
+- Efficient decision engine
+- Optimized board evaluation
+- Clean modular design
+- High-performance execution
+- Easy extensibility
+
+---
+
+# ⚙️ Technology Matrix
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+- Google Gemini API
+- Prompt Engineering
+- AI Chatbots
+- Generative AI
+- LLM Applications
+- AI Agents
+- Automation
+- RAG (Learning)
+
+---
+
+## 🛠 Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+---
+
+# 📊 Project Portfolio Overview
+
+| Project | Domain | Status |
+|---------|--------|--------|
+| 🌐 Portfolio + Sai Bot | AI Portfolio | 🟢 Live |
+| 🤖 AttentionX-AI | Generative AI | 🚀 Active |
+| 🏥 MediTrack | Health-Tech | ✅ Completed |
+| 🛡 Blue Stars OpenEnv | Reinforcement Learning | 🚀 Active |
+| 🎮 Sai Bot | AI Game Strategy | ✅ Completed |
+
+---
+
+# 📈 Engineering Statistics
+
+```text
+💻 Languages        : C • C++ • Python • JavaScript
+
+🤖 AI Projects      : 5+
+
+🚀 Hackathons       : Multiple National Events
+
+🏆 Awards           : Governor's Award
+                     Best Student Award
+
+🌐 Portfolio        : Live
+
+💼 Open Source      : Active Contributor
+
+📚 Learning         : RAG • Multi-Agent AI • System Design
+```
+
+---
+
+> **"Engineering is not just about writing code—it's about creating scalable solutions that make a meaningful impact."**
+
+---
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
-
-<!-- GitHub Stats -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Svk2811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svk2811&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Svk2811&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<!-- GitHub Streak -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Svk2811&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+# 📊 Contribution Graph
 
 <div align="center">
-
-<!-- GitHub Trophy -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Svk2811&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svk2811&theme=tokyo-night&hide_border=true"/>
 
@@ -799,9 +813,11 @@ Algorithms
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+> **Note:** This animation requires a GitHub Action to generate the SVG files.
+
+<div align="center">
 
 <picture>
 
@@ -820,19 +836,37 @@ src="https://raw.githubusercontent.com/Svk2811/Svk2811/output/github-contributio
 
 ---
 
+# 🌱 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🤖 Master Agentic AI workflows
+- 📚 Learn advanced System Design
+- 🌐 Contribute to Open Source regularly
+- ☁️ Explore Cloud & DevOps
+- 💼 Secure a Software / AI Internship
+- 🏆 Participate in national hackathons
+
+---
+
 # 📬 Let's Connect
 
 <div align="center">
 
 <a href="mailto:saivenkatakrishna28@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-saivenkatakrishna28@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
 <a href="https://in.linkedin.com/in/n-s-v-k">
 
-<img src="https://img.shields.io/badge/LinkedIn-Nune%20Sai%20Venkata%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Svk2811">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -842,59 +876,48 @@ src="https://raw.githubusercontent.com/Svk2811/Svk2811/output/github-contributio
 
 </a>
 
-<a href="https://github.com/Svk2811">
-
-<img src="https://img.shields.io/badge/GitHub-Svk2811-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
 </div>
 
 ---
 
-# 💬 Favorite Quote
+# 📄 Resume
 
 <div align="center">
 
-> **"Simplicity is a prerequisite for reliability. Building scalable systems is not about adding complexity, but elegantly abstracting it."**
+📥 **Download My Resume**
+
+> Replace the link below with your uploaded resume.
+
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
 
 </div>
 
 ---
 
-# 🚀 Open to Opportunities
+# 💬 Developer Quote
 
-I'm actively looking for opportunities in:
+<div align="center">
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Engineering
-- 🌐 Full-Stack Development
-- ☁️ Cloud Computing
-- 🚀 Open Source Projects
-- 📊 Data Science
-- ⚡ Automation & AI Agents
+> **"Build scalable software. Solve real-world problems. Keep learning every day."**
+
+</div>
 
 ---
 
 # 👨‍💻 Profile Summary
 
 ```yaml
-Name: Nune Sai Venkata Krishna
+Name:
+  Nune Sai Venkata Krishna
 
-Degree:
-  B.Tech CSE (AI & ML)
+Role:
+  AI & Machine Learning Undergraduate
 
 College:
   Parul Institute of Engineering and Technology
 
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full-Stack Development
-  - Agentic AI
-  - Automation
-  - System Design
+Specialization:
+  Computer Science & Engineering (AI & ML)
 
 Languages:
   - C
@@ -902,38 +925,33 @@ Languages:
   - Python
   - JavaScript
 
-Frontend:
+Web:
   - HTML5
   - CSS3
   - Firebase
 
-Currently Learning:
-  - RAG
-  - Multi-Agent Systems
-  - Cloud Computing
-  - Backend Engineering
+AI:
+  - Google Gemini API
+  - Prompt Engineering
+  - Generative AI
+  - AI Agents
 
-Portfolio:
-  https://saivenkatakrishna28-design.github.io/Portfolio
-
-GitHub:
-  https://github.com/Svk2811
-
-LinkedIn:
-  https://in.linkedin.com/in/n-s-v-k
-
-Email:
-  saivenkatakrishna28@gmail.com
+Current Focus:
+  - Full-Stack Development
+  - AI Automation
+  - Open Source
+  - Health-Tech
+  - System Design
 ```
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thank You for Visiting!
 
-If you like my work, consider ⭐ starring my repositories and connecting with me.
+If you like my work, consider **following my GitHub profile** and **starring my repositories**.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer"/>
 
 </div>
