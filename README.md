@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://saivenkatakrishna28-design.github.io/Portfolio">
+<a href="https://svk2811.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
