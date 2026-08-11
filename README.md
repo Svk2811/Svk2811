@@ -894,7 +894,7 @@ src="https://raw.githubusercontent.com/Svk2811/Svk2811/output/github-contributio
 📥 **Download My Resume**
 
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1R-WXPwJZ6GgcLrmytBjLR8lhDr9kGo6a/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1Z_namcOLpL4qM7m8Qqr1SSRaRx6VUK30/view?usp=drivesdk)
 
 </div>
 
